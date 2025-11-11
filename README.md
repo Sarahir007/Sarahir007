@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello there I am Sarahi👋 and 🌱 I’m currently learning Artificial Intelligence
 <!--
 **Sarahir007/Sarahir007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
